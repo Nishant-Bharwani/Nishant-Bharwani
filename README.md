@@ -1,5 +1,5 @@
 ### Hi there 👋
-What's going on bro....😎😎😎
+
 <!--
 **Nishant-Bharwani/Nishant-Bharwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
