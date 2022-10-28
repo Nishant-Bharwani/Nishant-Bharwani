@@ -17,9 +17,9 @@ Fascinated with real life applications of products.</h3>
 
 <h2 align="center">Connect with me 🤝 <br> </h2>
 <p align="center">
-<a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharwaninishant" height="30" width="40" /></a>  &nbsp &nbsp
-<a href="https://www.linkedin.com/in/nishant-bharwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-bharwani" height="30" width="40" /></a>  &nbsp &nbsp
-<a href="https://twitter.com/NishantBharwan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NishantBharwan3" height="30" width="40" /></a>
+<a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharwaninishant" height="30" width="40" /></a>  &nbsp &nbsp
+<a href="https://www.linkedin.com/in/nishant-bharwani/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-bharwani" height="30" width="40" /></a>  &nbsp &nbsp
+<a href="https://twitter.com/NishantBharwan3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NishantBharwan3" height="30" width="40" /></a>
 
 </p>
 <br>
