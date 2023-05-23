@@ -7,7 +7,7 @@ Fascinated with real life applications of products.</h3>
 
 - ### 🌱 &nbsp;I’m currently learning **React.js, Data structures and algorithms**
 
-- ### 👨‍💻&nbsp; All of my projects are available [here](https://github.com/Nishant-Bharwani)
+- ### 👨‍💻&nbsp; All of my projects are available [here](https://github.com/Nishant-Bharwani?tab=repositories)
 
 - ### 👯&nbsp; I'm looking to collaborate to open source
 
