@@ -7,13 +7,13 @@ Fascinated with real life applications of products.</h3>
 
 - ### 🌱 &nbsp;I’m currently learning **React.js, Data structures and algorithms**
 
-- ### 👨‍💻&nbsp; All of my projects are available [here](https://github.com/Nishant-Bharwani?tab=repositories)
+- ### 👨‍💻&nbsp; All of my projects are available [here](https://nishantdev.netlify.app)
 
-- ### 👯&nbsp; I'm looking to collaborate to open source
+- ### 👯&nbsp; I'm looking to collaborate to open-source
 
 - ### 📫&nbsp; Reach me out at <a href="mailto:nbtaylor1031@gmail.com"><b>nbtaylor1031@gmail.com</b></a>
 
-- ### 👨‍💼&nbsp; I'm open for oppurtunities, get my Resume [here](https://raw.githubusercontent.com/Nishant-Bharwani/Resume/master/Resume.pdf)
+- ### 👨‍💼&nbsp; I'm open to opportunities, get my Resume [here](https://nishantdev.netlify.app/Nishant_Bharwani_Resume.pdf)
 
 <h2 align="center">Connect with me 🤝 <br> </h2>
 <p align="center">
