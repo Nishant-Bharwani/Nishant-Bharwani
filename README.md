@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishant Bharwani </h1>
 
-<h3>Intrested in developement. <br>
-Fascinated with real life applications of products.</h3>
+<h3> Interested in development. <br>
+Fascinated with real-life applications of products.</h3>
 
 <hr>
 
-- ### 🌱 &nbsp;I’m currently learning **React.js, Data structures and algorithms**
+- ### 🌱 &nbsp;I’m currently learning **Data structures and algorithms** and upskilling myself
 
 - ### 👨‍💻&nbsp; All of my projects are available [here](https://nishantdev.netlify.app)
 
